@@ -1,5 +1,3 @@
-const { get } = require('http');
-
 // gets input from input.txt and returns contents split by line in array
 function getInput() {
     const fs = require('fs');
